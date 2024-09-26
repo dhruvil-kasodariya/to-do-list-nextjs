@@ -1,9 +1,7 @@
-import Image from "next/image";
-
 export default function Home() {
   return (
-    <div className="flex flex-col items-center justify-center h-screen">
-      Hello , new page
+    <div className="flex flex-col items-center h-screen w-full">
+      landing page
     </div>
   );
 }
